@@ -271,6 +271,8 @@ SECTION "Pics 5", ROMX
 
 StarmiePicFront::      INCBIN "gfx/pokemon/front/starmie.pic"
 StarmiePicBack::       INCBIN "gfx/pokemon/back/starmieb.pic"
+MewPicFront::          INCBIN "gfx/pokemon/front/mew.pic"
+MewPicBack::           INCBIN "gfx/pokemon/back/mewb.pic"
 BulbasaurPicFront::    INCBIN "gfx/pokemon/front/bulbasaur.pic"
 BulbasaurPicBack::     INCBIN "gfx/pokemon/back/bulbasaurb.pic"
 VenusaurPicFront::     INCBIN "gfx/pokemon/front/venusaur.pic"
