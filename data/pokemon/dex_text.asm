@@ -298,6 +298,16 @@ _TangelaDexEntry::
 	next "shake as it walks"
 	dex
 
+_DerekDexEntry::
+	text "He insists on"
+	next "wearing human"
+	next "Clothes. Knows"
+
+	page "the difference"
+	next "but will never"
+	next "tell you"
+	dex
+
 _GrowlitheDexEntry::
 	text "Very protective"
 	next "of its territory."
