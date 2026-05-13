@@ -407,6 +407,13 @@ TangelaDexEntry:
 	text_far _TangelaDexEntry
 	text_end
 
+DerekDexEntry:
+	db "Zuprvisor@"
+	db 2,11
+	dw 190
+	text_far _DerekDexEntry
+	text_end
+
 GrowlitheDexEntry:
 	db "PUPPY@"
 	db 2,4
