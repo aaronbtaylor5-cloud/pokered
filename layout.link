@@ -79,11 +79,11 @@ ROMX $B
 	"Battle Engine 5"
 ROMX $C
 	"Pics 4"
-	"Battle Engine 6"
 ROMX $D
+    "Battle Engine 6"
 	"Pics 5"
-	"Slot Machines"
 ROMX $E
+    "Slot Machines"
 	"Battle Engine 7"
 ROMX $F
 	"Battle Core"
