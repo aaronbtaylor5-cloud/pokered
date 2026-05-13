@@ -84,10 +84,10 @@ ROMX $D
 	"Pics 5"
 ROMX $E
     "Slot Machines"
-	"Battle Engine 7"
 ROMX $F
-	"Battle Core"
+    "Battle Engine 7"
 ROMX $10
+    "Battle Core"
 	"bank10"
 ROMX $11
 	"Maps 5"
